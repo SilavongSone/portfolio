@@ -1,5 +1,11 @@
 <template>
-  <div>
-    hello world
-  </div>
+  <!-- ຕົວຫ້ອມເວັບ -->
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
+
+<script setup>
+</script>
+
+<style></style>
